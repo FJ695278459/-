@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21194881-6be4-45b6-928b-a220900b5282" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../RandPeopleList/src/com/SINTech/RandPerson1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandPeopleList/src/com/SINTech/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandPeopleList/src/com/SINTech/Testchers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Randdom/src/COM/ABBB/tmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_scheduling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shujik.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shujuk.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/student.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/teacher.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/专业名称.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/多线程示例.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/大类课程10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/学生10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/学生名单.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/教室10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/教室资源.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/班级名单10000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/老师000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/老师111.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/课程1000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/课程2000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/课程3000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/选修班级10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/附加要求10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/附加要求2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javacsv.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/sqlite-jdbc-3.30.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auto_scheduling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/Coding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/Decode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/Fitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/RealizeBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/RealizeIndividual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/RealizePopulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/TurnBitsAndString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/getList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/getLsit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/Realize_auto/mainTem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/auto_scheduling/Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/auto_scheduling/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/auto_scheduling/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/auto_scheduling/CourseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/auto_scheduling/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/auto_scheduling/Population.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/auto_scheduling/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/auto_scheduling/StudentClaass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ScitLiugTeam/auto_scheduling/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/conpara/ConPara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/conpara/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/Imp/ClassRoomImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/Imp/CourseBaseImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/Imp/CourseImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/Imp/StudentClassImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/Imp/TeacherImports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/ClassesRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/ImpStudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/ImporTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/ImportAppendTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/ImportCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/ImportCourseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/getStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/isTreamData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iostream/csv/osTreamData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreaded/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreaded/Tmpmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randPeopList/src/com/TowSinech/ConstPara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randPeopList/src/com/TowSinech/DbHelerss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randPeopList/src/com/TowSinech/RandPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randPeopList/src/com/TowSinech/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randPeopList/src/com/TowSinech/Towmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randPeopList/src/com/TowSinech/isTrream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randPeopList/src/com/TowSinech/osTream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randPeopList/src/com/TowSinech/teaCher.java" afterDir="false" />
+    </list>
+    <list id="9860151d-4faf-4d3f-9a60-3d2a78761122" name="New changelist" comment="自动排课" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eveEfRnmgE765eFyhUnHFfzPd2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ScitLiugTeam.auto_scheduling" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ScitLiugTeam.auto_scheduling" />
+      <recent name="com.Imp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.mainTem">
+    <configuration name="Tmpmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreaded.Tmpmain" />
+      <module name="auto_scheduling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.multithreaded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iostream.Imp.main" />
+      <module name="auto_scheduling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iostream.Imp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Imp.main" />
+      <module name="auto_scheduling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Imp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainTem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ScitLiugTeam.Realize_auto.mainTem" />
+      <module name="auto_scheduling" />
+      <option name="VM_PARAMETERS" value="-Xms1024m -Xmx1024m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ScitLiugTeam.Realize_auto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iostream.csv.mains" />
+      <module name="auto_scheduling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iostream.csv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main (1)" />
+      <item itemvalue="Application.mainTem" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.mains" />
+      <item itemvalue="Application.Tmpmain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mainTem" />
+        <item itemvalue="Application.Tmpmain" />
+        <item itemvalue="Application.mains" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21194881-6be4-45b6-928b-a220900b5282" name="Default Changelist" comment="" />
+      <changelist id="9860151d-4faf-4d3f-9a60-3d2a78761122" name="New changelist" comment="自动排课" />
+      <created>1595206383283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595206383283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="219" key="#Auto_Import" timestamp="1596547290532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="219" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1596547290532" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1598839571899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1598839571899" />
+    <state x="556" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598079363874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="556" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598079363874" />
+    <state x="710" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1598916723935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598916723935" />
+    <state x="831" y="353" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598052292200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="353" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598052292200" />
+    <state x="728" y="413" width="466" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598013730893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="413" width="466" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1598013730893" />
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1598410829336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598410829336" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1598839680939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598839680939" />
+    <state x="875" y="283" key="FileChooserDialogImpl" timestamp="1598839304410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="875" y="283" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598839304410" />
+    <state x="937" y="373" key="Github.ShareDialog" timestamp="1598839841969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="937" y="373" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598839841969" />
+    <state width="1877" height="535" key="GridCell.Tab.0.bottom" timestamp="1598950646091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1791" height="2" key="GridCell.Tab.0.bottom/0.0.1834.1080@0.0.1834.1080" timestamp="1598312157315" />
+    <state width="1877" height="535" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598950646091" />
+    <state width="1877" height="535" key="GridCell.Tab.0.center" timestamp="1598950646089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1791" height="2" key="GridCell.Tab.0.center/0.0.1834.1080@0.0.1834.1080" timestamp="1598312157314" />
+    <state width="1877" height="535" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598950646089" />
+    <state width="1877" height="535" key="GridCell.Tab.0.left" timestamp="1598950646089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1791" height="2" key="GridCell.Tab.0.left/0.0.1834.1080@0.0.1834.1080" timestamp="1598312157313" />
+    <state width="1877" height="535" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598950646089" />
+    <state width="1877" height="535" key="GridCell.Tab.0.right" timestamp="1598950646090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1791" height="2" key="GridCell.Tab.0.right/0.0.1834.1080@0.0.1834.1080" timestamp="1598312157314" />
+    <state width="1877" height="535" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598950646090" />
+    <state width="1877" height="378" key="GridCell.Tab.1.bottom" timestamp="1598858533887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598858533887" />
+    <state width="1877" height="378" key="GridCell.Tab.1.center" timestamp="1598858533885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598858533885" />
+    <state width="1877" height="378" key="GridCell.Tab.1.left" timestamp="1598858533884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598858533884" />
+    <state width="1877" height="378" key="GridCell.Tab.1.right" timestamp="1598858533886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598858533886" />
+    <state x="551" y="133" key="SettingsEditor" timestamp="1598839408310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="133" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598839408310" />
+    <state x="790" y="389" key="VCS.EditChangelistDialog" timestamp="1598839711887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="389" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598839711887" />
+    <state x="77" y="111" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1598050678871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="77" y="111" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598050678871" />
+    <state x="706" y="331" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595772543796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="331" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595772543796" />
+    <state x="334" y="130" key="new project wizard" timestamp="1597196748398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1597196748398" />
+    <state x="661" y="276" key="refactoring.ChangeSignatureDialog" timestamp="1597624452156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="276" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597624452156" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1597741715367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597741715367" />
+    <state x="623" y="225" width="672" height="160" key="search.everywhere.popup" timestamp="1598918150094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="234" width="672" height="167" key="search.everywhere.popup/0.0.1834.1080@0.0.1834.1080" timestamp="1598266147474" />
+    <state x="623" y="225" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598918150094" />
+  </component>
+</project>
